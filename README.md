@@ -33,7 +33,7 @@ cd dslist
 # executar o projeto
 ./mvnw spring-boot:run
 ```
-## Docker compose download e scrip 
+## Docker compose download e script 
 
 Download: https://github.com/docker/compose/releases
 
