@@ -3,6 +3,10 @@
 O projeto é uma **API** no padrão REST que facilita a interação com objetos relacionais, com foco principal em jogos. Oferece recursos para visualizar jogos em diferentes listas, 
 buscar jogos por ID e reorganizar listas de forma eficiente, proporcionando uma experiência dinâmica e personalizada para os usuários.
 
+Vídeo fazendo alguns testes usando o Postman: 
+
+https://www.linkedin.com/feed/update/urn:li:activity:7139986285175234560/
+
 ## Modelo conceitual
 
 ![dslist-model](https://github.com/lcvinicius/dslist-backend/assets/101663540/ab1331eb-f719-477a-981e-7dca090cc066)
@@ -32,6 +36,7 @@ cd dslist
 ## Docker compose download e scrip 
 
 Download: https://github.com/docker/compose/releases
+
 Script: https://github.com/lcvinicius/dslist-backend/blob/01d3e18525a7ea0bed16fc952eb36471a3af8869/docker-compose.yml
 
 # Autor 
